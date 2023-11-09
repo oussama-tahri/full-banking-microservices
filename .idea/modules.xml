@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/full-banking-frontend.iml" filepath="$PROJECT_DIR$/full-banking-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/full-banking-microservices.iml" filepath="$PROJECT_DIR$/.idea/full-banking-microservices.iml" />
+    </modules>
+  </component>
+</project>
